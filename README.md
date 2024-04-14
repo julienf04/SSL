@@ -1,2 +1,25 @@
-# SSL
-Repositorio para el tp0 de la materia Sistaxis y Semantica de los Lenguajes en la UTN FRBA (2024)
+# Bienvenido a mi repo de SSL!
+
+En este repositorio encontrarás mis tps individuales resueltos de la materia Sintaxis y Semántica de los Lenguajes de la UTN FRBA del año 2024.
+
+
+------------
+
+
+### Datos de la cursada
+
+- Estoy en la comisión K2152, curso los días martes a la noche.
+
+- El profesor a cargo de la cursada es Miguel Carboni (excelente profe, muy recomendado 😉😉).
+
+
+
+------------
+
+### ¿Quién soy?
+
+- Me llamo Julian Fajardo.
+
+- Mi mail de la UTN FRBA es jfajardo@frba.utn.edu.ar
+
+- Mi legajo es 2087327
