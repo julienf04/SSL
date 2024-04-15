@@ -3,13 +3,14 @@
 El enunciado completo del tp0 es el siguiente:
 
 > https://aulasvirtuales.frba.utn.edu.ar/mod/assign/view.php?id=1563183
+
 *Es necesario estar matriculado en el aula virtual "2024 - Sintaxis y Semántica de los Lenguajes K2152" de la UTN FRBA para acceder al link.*
 
 
 ------------
 
 
-#### Objetivos del tp0:
+### Objetivos del tp0:
 
 Básicamente, los objetivos del tp0 son:
 
@@ -17,6 +18,14 @@ Básicamente, los objetivos del tp0 son:
 el desarrollo de un programa simple.
 - Tener un primer contacto con las herramientas necesarias para abordar la
 resolución de los trabajos posteriores.
+
+
+------------
+
+### Datos relevantes
+
+- Versión del GCC usada: 13.2.0
+- Estándar de C usado: C18
 
 
 ------------
