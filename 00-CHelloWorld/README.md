@@ -34,10 +34,10 @@ resolución de los trabajos posteriores.
 
 En esta sección explico brevemente la forma en la que resolví el tp0.
 
-1. Me descargué el compilador gcc siguiendo el siguiente tutorial:
+1. Me descargué el compilador GCC siguiendo el siguiente tutorial:
 https://code.visualstudio.com/docs/cpp/config-mingw
 
-2. Creé un programa sencillo para saber qué estándar de C usa mi gcc por defecto. Este programa simplemente usa la macro __\_\_STDC\_VERSION\_\___ para determinar el estándar de C con el que compila por defecto si no se lo especifico manualmente. Por defecto, la versión de mi compilador usa el estándar C18. Así que, por pereza de no especificar manualmente el estándar de C que quiero usar al momento de compilar, este tp fue compilado usando el estándar C18 (mi predeterminado.
+2. Creé un programa sencillo para saber qué estándar de C usa mi GCC por defecto. Este programa simplemente usa la macro __\_\_STDC\_VERSION\_\___ para determinar el estándar de C con el que compila por defecto si no se lo especifico manualmente. Por defecto, la versión de mi compilador usa el estándar C18. Así que, por pereza de no especificar manualmente el estándar de C que quiero usar al momento de compilar, este tp fue compilado usando el estándar C18 (mi predeterminado).
 
 3. Creé el programa __hello.c__; lo compilé mediante consola; ejecuté el ejecutable que fue creado; verifiqué que la salida sea la esperada; y volví a ejecutarlo pero redirigiendo la salida al archivo output.txt.
 
